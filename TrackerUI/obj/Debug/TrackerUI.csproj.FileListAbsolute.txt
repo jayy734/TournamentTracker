@@ -1,0 +1,11 @@
+C:\Users\angel\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\angel\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\angel\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\angel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\angel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewer.resources
+C:\Users\angel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\angel\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
